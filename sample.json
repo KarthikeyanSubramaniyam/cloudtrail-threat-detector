@@ -1,0 +1,13 @@
+{
+  "Records": [
+    {
+      "eventID": "demo-1",
+      "eventName": "StopLogging",
+      "eventTime": "2026-10-03T10:00:00Z",
+      "userIdentity": {
+        "type": "IAMUser"
+      }
+    }
+  ]
+}
+
